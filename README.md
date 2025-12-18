@@ -5,7 +5,7 @@ Plugin LimeSurvey pour générer des emails conformes au **Système de Design de
 > **Basé sur [DSFR Mail](https://github.com/GouvernementFR/dsfr-mail)** - Templates d'emails officiels du Gouvernement Français.
 > Merci à l'équipe du DSFR pour ce travail de qualité !
 
-![Exemple d'email DSFR](docs/exemple-email.png)
+![Exemple d'email DSFR](assets/images/Screenshot.png)
 
 ## Fonctionnalités
 
